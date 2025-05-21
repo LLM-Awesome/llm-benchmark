@@ -1,5 +1,11 @@
 # llm-benchmark
 
+https://agi.safe.ai/
+
+Humanity's Last Exam
+Benchmarks are important tools for tracking the rapid advancements in large language model (LLM) capabilities. However, benchmarks are not keeping pace in difficulty: LLMs now achieve over 90% accuracy on popular benchmarks like MMLU, limiting informed measurement of state-of-the-art LLM capabilities. In response, we introduce Humanity's Last Exam, a multi-modal benchmark at the frontier of human knowledge, designed to be the final closed-ended academic benchmark of its kind with broad subject coverage. The dataset consists of 2,500 challenging questions across over a hundred subjects. We publicly release these que
+
+
 
 https://longbench2.github.io/#leaderboard
 LongBench v2
